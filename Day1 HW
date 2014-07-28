@@ -1,0 +1,2 @@
+def hypotenuse(side_a, side_b)
+  side_c=((side_a**2)+(side_b**2))**(1/2)
