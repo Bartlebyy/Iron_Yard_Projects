@@ -1,0 +1,15 @@
+markdown: redcarpet
+highlighter: null
+permalink: /:title
+
+url:"http://diego.ink"
+baseurl:""
+
+redcarpet:
+  extensions: [strikethrough, tables]
+
+sass:
+  sass_dir: public/css
+  style: :compressed
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
