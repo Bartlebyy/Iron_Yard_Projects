@@ -2,8 +2,8 @@ markdown: redcarpet
 highlighter: null
 permalink: /:title
 
-url:"http://diego.ink"
-baseurl:""
+url: "http://diego.ink"
+baseurl: ""
 
 redcarpet:
   extensions: [strikethrough, tables]
